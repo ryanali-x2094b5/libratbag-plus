@@ -4,7 +4,7 @@
 
 ![License](https://img.shields.io/github/license/ryanali-x2094b5/libbag-plus) ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 
-![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.2-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/ryanali-x2094b5/libbag-plus?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/ryanali-x2094b5/libbag-plus?style=flat-square)
+![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.3-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/ryanali-x2094b5/libbag-plus?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/ryanali-x2094b5/libbag-plus?style=flat-square)
 
 Libbag — 🚀 Create real software effortlessly, no coding needed. Master beginner-friendly tools and s with Vibe Coding for Dummies
 
